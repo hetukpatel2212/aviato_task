@@ -1,0 +1,13 @@
+export const ADDACTIVE = require('../Images/AddActive.png');
+export const ADDINACTIVE = require('../Images/AddInactive.png');
+export const HOMEACTIVE = require('../Images/HomeActive.png');
+export const HOMEINACTIVE = require('../Images/HomeInactive.png');
+export const SPLASH = require('../Images/splash.png');
+export const BANNER = require('../Images/banner.png');
+export const SEARCH = require('../Images/search.png');
+export const PROFILE = require('../Images/profile.jpg');
+export const ITEM = require('../Images/item.jpg');
+export const BACK = require('../Images/back.png');
+export const EDIT = require('../Images/edit.png');
+export const CONTACT = require('../Images/phone.png');
+export const EMAIL = require('../Images/email.png');
